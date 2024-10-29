@@ -1,10 +1,10 @@
 import React from "react";
 import { Text, View } from "react-native";
 
-const Home = () => {
+const Home = ({ navigation }) => {
   return (
     <View>
-      <Text>Hello world </Text>
+      <Text>Hello world</Text>
     </View>
   );
 };
