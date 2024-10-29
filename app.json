@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "61ea5bc9-d3d7-410a-b638-208ce475ce9b"
+      }
+    },
+    "owner": "coderegtech"
   }
 }
